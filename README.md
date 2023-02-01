@@ -1,3 +1,7 @@
+<p align="center" style="margin-bottom: 0px !important;">
+  <img width="800" src="media/google_playstore_header.jpg" align="center">
+</p>
+
 ### <h1 align="center" id="heading">Tech Stack</h1>
 <div align="center">
 
