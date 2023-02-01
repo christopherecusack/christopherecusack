@@ -4,6 +4,8 @@
 
 Hello. My name is **Chris Cusack**. I am an Instructor, Applications Architect, Developer and Entrepreneur. Builder of things with bits on and off in just the right order using a wide variety of languages and platforms. Particularly interested in C++, .NET, Java, JavaScript, Python, Node.js, IoT, cloud computing, big data, machine learning, AI, mobile, web, client/server applications, monoliths, microservices, structured and semi structured database design using Oracle, MySQL, MS-SQL, CosmosDB, MongoDB, Cassandra, Hadoop. Event driven architectures using Apache Kafka, MS Event Hub, MS IoT Hub, RabbitMQ, MQTT Brokers. Also interested in improving collaboration, build automation, containerization, orchestration, quality, CICD and everything DevOps.
 
+![](https://komarev.com/ghpvc/?christopherecusack)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ChrisCusack" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
