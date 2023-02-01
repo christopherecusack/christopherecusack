@@ -2,7 +2,7 @@
   <img width="800" src="media/google_playstore_header.jpg" align="center">
 </p>
 
-Hello. My name is Chris Cusack. I am an Instructor, Applications Architect, Developer and Entrepreneur. Builder of things with bits on and off in just the right order using a wide variety of languages and platforms. Particularly interested in C++, .NET, Java, JavaScript, Python, Node.js, IoT, cloud computing, big data, machine learning, AI, mobile, web, client/server applications, monoliths, microservices, structured and semi structured database design using Oracle, MySQL, MS-SQL, CosmosDB, MongoDB, Cassandra, Hadoop. Event driven architectures using Apache Kafka, MS Event Hub, MS IoT Hub, RabbitMQ, MQTT Brokers. Also interested in improving collaboration, build automation, containerization, orchestration, quality, CICD and everything DevOps.
+Hello. My name is **Chris Cusack**. I am an Instructor, Applications Architect, Developer and Entrepreneur. Builder of things with bits on and off in just the right order using a wide variety of languages and platforms. Particularly interested in C++, .NET, Java, JavaScript, Python, Node.js, IoT, cloud computing, big data, machine learning, AI, mobile, web, client/server applications, monoliths, microservices, structured and semi structured database design using Oracle, MySQL, MS-SQL, CosmosDB, MongoDB, Cassandra, Hadoop. Event driven architectures using Apache Kafka, MS Event Hub, MS IoT Hub, RabbitMQ, MQTT Brokers. Also interested in improving collaboration, build automation, containerization, orchestration, quality, CICD and everything DevOps.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
