@@ -8,8 +8,8 @@ Hello. My name is **Chris Cusack**. I am an Instructor, Applications Architect, 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ChrisCusack" target="blank"><img align="center" src="media/twitter.svg" alt="" height="50" width="50" /></a>
-<a href="https://www.linkedin.com/in/christophercusack/" target="blank"><img align="center" src="media/linkedin.svg" alt="" height="50" width="50" /></a>
+<a href="https://twitter.com/riptidesoftwar1" target="blank"><img align="center" src="media/twitter.svg" alt="" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/company/riptide-software" target="blank"><img align="center" src="media/linkedin.svg" alt="" height="50" width="50" /></a>
 <a href="https://www.instagram.com/chrisecusack/" target="blank"><img align="center" src="media/instagram.svg" alt="" height="50" width="50" /></a>
 </p>
 
